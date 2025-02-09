@@ -40,3 +40,22 @@ To sync the changes with GitHub:
 Data - are a *collection* of discrete or continuous calues that convey information, describing the quantity, quality, fact, statistics, other basic units of meaning, or simply sequences of symbols that may be further interpreted formally.
 
 Datum - an *individual* value in a collection of data.
+
+### Big vs. Small Data
+
+Big data refers to extremely large volumes of data that are too complex or large to be processed by traditional data management tools. 
+It is often characterized by the "three Vs": 
+- Volume (huge amounts of data), 
+- Velocity (the speed at which it is generated and processed), 
+- Variety (the diversity of data types, including structured, semi-structured, and unstructured data). 
+Big data is used for advanced analytics, machine learning, and predictive insights.
+
+Small data, on the other hand, refers to data sets that are smaller, more manageable, and can often be processed with traditional data tools. It typically involves structured data with a clear format, often used in more straightforward analysis and decision-making processes. Small data can be handled with simple tools and is commonly used by small businesses or individual applications.
+
+Key differences:
+
+- Volume: Big data involves large, complex data sets; small data is more limited in size.
+-  Complexity: Big data can include unstructured data from multiple sources, while small data is often clean, structured, and easier to analyse.
+- Tools and processing: Big data requires advanced technologies (like Hadoop, Spark), while small data can often be handled by simpler software like Excel or SQL.
+
+In short, *BIG DATA* is vast and requires advanced tools for analysis, while *SMALL DATA* is more accessible and easier to manage and analyse.
