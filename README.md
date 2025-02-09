@@ -29,3 +29,6 @@ To save changes made to the README file:
 To sync the changes with GitHub:
 - Following saving changes to the README file through the Source Control and Commit functions, there should now be a Sync Changes button.
 - Click on the Sync Changes button, this will then sync the commited changes from the development environment (github.dev) with GitHub.
+
+## Week 1 
+- Set up GitHub, sync with machine, update README.md file
